@@ -1,0 +1,11 @@
+[23-Apr-2022 21:47:32 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Admin\AttendController::index() in /home/festivalgcc/public_html/app/Http/Controllers/Admin/AttendController.php on line 18
+[16-Jun-2022 12:43:51 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:44:06 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:44:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:44:33 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:44:58 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:45:08 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[16-Jun-2022 12:45:20 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\HomeController::exportAllRegistered() in /home/emf5/public_html/app/Http/Controllers/HomeController.php on line 298
+[18-May-2025 15:24:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.0.30. in /home2/eventregister/public_html/mtls/vendor/composer/platform_check.php on line 24
+[24-Sep-2025 12:13:22 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0
+[24-Sep-2025 12:13:53 UTC] PHP Warning:  Module "imagick" is already loaded in Unknown on line 0

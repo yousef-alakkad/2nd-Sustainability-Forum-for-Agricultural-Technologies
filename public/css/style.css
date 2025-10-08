@@ -1,0 +1,16 @@
+@font-face {
+   font-family: BrandingLight;
+   src: url('../fonts/frutiger-lt-arabic-cufonfonts/FrutigerLTArabic45Light.ttf');
+}
+@font-face {
+   font-family: Brandingblack;
+   src: url('../fonts/frutiger-lt-arabic-cufonfonts/frutigerltarabic75black.ttf');
+}
+@font-face {
+   font-family: Bold;
+   src: url('../fonts/frutiger-lt-arabic-cufonfonts/FrutigerLTArabic65Bold.ttf');
+}
+@font-face {
+   font-family: Roman;
+   src: url('../fonts/frutiger-lt-arabic-cufonfonts/FrutigerLTArabic55Roman.ttf');
+}

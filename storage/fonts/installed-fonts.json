@@ -1,0 +1,18 @@
+{
+    "cairo": {
+        "200": "C:\\xampp\\htdocs\\Khobar\\storage\\fonts\/cairo_200_016e91f80693ea9a39f3f8b45871b529",
+        "300": "C:\\xampp\\htdocs\\Khobar\\storage\\fonts\/cairo_300_adebfb94605daa8752959c1403988edc",
+        "normal": "C:\\xampp\\htdocs\\masirtna\\storage\\fonts\/cairo_normal_f4801cf8db381a26b44e59f1a4cdc962",
+        "500": "C:\\xampp\\htdocs\\Khobar\\storage\\fonts\/cairo_500_21457be9154c30da4f489b9d34583858",
+        "600": "C:\\xampp\\htdocs\\masirtna\\storage\\fonts\/cairo_600_e70b5a35ff3090b7b4e3ba9faaa355dc",
+        "800": "cairo_800_b1c67f48462d1f3a81dd53dbf1d4cb71",
+        "bold": "C:\\xampp\\htdocs\\masirtna\\storage\\fonts\/cairo_bold_6729e80148dd959f62b8ed99dfcc9b7d"
+    },
+    "hrsd": {
+        "normal": "hrsd_normal_5a6a12c97a1c446317bebb9e5124c105"
+    },
+    "tajawal": {
+        "normal": "C:\\xampp\\htdocs\\masirtna\\storage\\fonts\/tajawal_normal_73009b78b218882ff3f104978bf6dd06",
+        "bold": "tajawal_bold_c0519d4105dbad41742c5c8207c3950e"
+    }
+}
