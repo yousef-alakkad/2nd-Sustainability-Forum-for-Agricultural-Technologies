@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Hasan Ehsan
- * Date: 2/17/2023
- * Time: 6:27 PM
- */
+
 
 namespace App\Helpers;
 
@@ -16,8 +11,8 @@ use Illuminate\Support\Facades\Log;
 class WhatsappHelper
 {
 
-    public static $INSTANCE = 'instance92189';
-    public static $TOKEN = 'smg25zv3ve2078xi';
+    public static $INSTANCE = '';
+    public static $TOKEN = '';
 
     public static function sendMessage(string $to, string $text)
     {
